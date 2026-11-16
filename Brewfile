@@ -22,6 +22,8 @@ cask "google-chrome"
 cask "grok-build"
 # Java IDE by JetBrains
 cask "intellij-idea"
+# Collaboration platform for API development
+cask "postman"
 # Open-source code editor
 cask "visual-studio-code"
 vscode "coderabbit.coderabbit-vscode"
