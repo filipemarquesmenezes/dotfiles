@@ -8,6 +8,8 @@ brew "grpcurl"
 brew "htop"
 # Polyglot runtime manager (asdf rust clone)
 brew "mise"
+# Extremely fast Python package installer and resolver, written in Rust
+brew "uv"
 # UNIX shell (command interpreter)
 brew "zsh"
 # OpenAI's coding agent that runs in your terminal
