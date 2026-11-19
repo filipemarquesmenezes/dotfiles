@@ -28,6 +28,7 @@ cask "intellij-idea"
 cask "postman"
 # Open-source code editor
 cask "visual-studio-code"
+vscode "amazonwebservices.aws-toolkit-vscode"
 vscode "coderabbit.coderabbit-vscode"
 vscode "golang.go"
 vscode "oracle.oracle-java"
