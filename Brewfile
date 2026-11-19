@@ -4,8 +4,6 @@ brew "awscli"
 brew "gh"
 # Like cURL, but for gRPC
 brew "grpcurl"
-# Improved top (interactive process viewer)
-brew "htop"
 # Polyglot runtime manager (asdf rust clone)
 brew "mise"
 # Extremely fast Python package installer and resolver, written in Rust
@@ -28,16 +26,3 @@ cask "intellij-idea"
 cask "postman"
 # Open-source code editor
 cask "visual-studio-code"
-vscode "amazonwebservices.aws-toolkit-vscode"
-vscode "coderabbit.coderabbit-vscode"
-vscode "golang.go"
-vscode "oracle.oracle-java"
-vscode "redhat.java"
-vscode "sonarsource.sonarlint-vscode"
-vscode "vscjava.vscode-gradle"
-vscode "vscjava.vscode-java-debug"
-vscode "vscjava.vscode-java-dependency"
-vscode "vscjava.vscode-java-pack"
-vscode "vscjava.vscode-java-test"
-vscode "vscjava.vscode-maven"
-vscode "vscode-icons-team.vscode-icons"
