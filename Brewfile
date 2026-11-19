@@ -4,6 +4,8 @@ brew "awscli"
 brew "gh"
 # Like cURL, but for gRPC
 brew "grpcurl"
+# Improved top (interactive process viewer)
+brew "htop"
 # Polyglot runtime manager (asdf rust clone)
 brew "mise"
 # Extremely fast Python package installer and resolver, written in Rust
